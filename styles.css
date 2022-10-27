@@ -14,13 +14,13 @@ body {
   padding-top: 10px;
 }
 
-.natvop{
-  /* position: relative; */
+.navtop{
   width: auto;
-  height: 60px;
-  /* top: 0; */
+  height: 135px;
   background-color: #2d4471;
-  padding: 40px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 .overlay {
