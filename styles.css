@@ -6,7 +6,7 @@ body {
 }
 
 .hamburger{
-  position: absolute;
+  position: fixed;
   right: 45px;
   top: 20px;
   font-size: 50px;
@@ -67,7 +67,7 @@ body {
 
 .overlay .closebtn {
   position: absolute;
-  top: 20px;
+  top: 1px;
   right: 45px;
   font-size: 60px;
   color: #fff;
@@ -78,14 +78,14 @@ body {
   .overlay {overflow-y: auto;}
   .overlay a {font-size: 20px}
   .overlay .closebtn {
-  font-size: 40px;
-  top: 15px;
-  right: 35px;
+  font-size: 30px;
+  top: 10px;
+  right: 25px;
   }
   .hamburger{
-    font-size: 40px;
-    top: 15px;
-    right: 35px;
+    font-size: 30px;
+    top: 10px;
+    right: 25px;
   }
   
 }
