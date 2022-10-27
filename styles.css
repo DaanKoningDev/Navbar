@@ -74,6 +74,13 @@ body {
   padding-right: 3px;
 }
 
+.kop{
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: center;
+  padding-top: 150px;
+}
+
 @media screen and (max-height: 480px) {
   .overlay {overflow-y: auto;}
   .overlay a {font-size: 20px}
