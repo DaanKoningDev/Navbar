@@ -82,7 +82,7 @@ body {
   padding-top: 150px;
 }
 
-@media screen and (max-height: 480px) {
+@media screen and (min-width: 576px) {
   .overlay {overflow-y: auto;}
   .overlay a {font-size: 20px}
   .overlay a:hover{color: none;}
