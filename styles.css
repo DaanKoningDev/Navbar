@@ -82,18 +82,17 @@ body {
   padding-top: 150px;
 }
 
-@media screen and (min-width: 576px) {
+@media screen and (max-width: 576px) {
   .overlay {overflow-y: auto;}
   .overlay a {font-size: 20px}
   .overlay a:hover{color: none;}
   .overlay .closebtn {
-  font-size: 10px;
-  top: 10px;
+  font-size: 30px;
   right: 25px;
   }
   .hamburger{
-    font-size: 10px;
-    top: 10px;
+    font-size: 25px;
+    top: 12px;
     right: 25px;
   }
   .navtop{
